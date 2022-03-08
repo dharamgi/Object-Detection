@@ -1,0 +1,41 @@
+Main discussion.*******https://www.section.io/engineering-education/a-3d-object-detection-solution-for-everyday-objects/
+Feedback loop:
+https://www.analyticsvidhya.com/blog/2018/10/a-step-by-step-introduction-to-the-basic-object-detection-algorithms-part-1/
+https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e
+https://towardsdatascience.com/object-detection-with-voice-feedback-yolo-v3-gtts-6ec732dca91
+https://biblio.ugent.be/publication/8567675/file/8567676.pdf
+http://cvgl.stanford.edu/papers/Sun_bmvc_2010.pdf
+
+object detection- How to Install anaconda python,pycharm,postman
+https://www.youtube.com/watch?v=WEre-8tNq34&list=PLmQAMKHKeLZ92l4YMgVba6Vo9-m2PxTZ4
+
+
+object detection using mediapipe:
+https://google.github.io/mediapipe/solutions/objectron.html
+
+
+type of dataset:
+https://www.analyticsvidhya.com/blog/2021/05/top-10-open-source-datasets-for-object-detection-machine-learning-in-2021/
+https://towardsdatascience.com/collecting-data-for-custom-object-detection-e7d888c1469b
+https://towardsai.net/p/computer-vision/50-object-detection-datasets-from-different-industry-domains
+
+
+collecting the dataset:
+https://towardsdatascience.com/how-to-prepare-data-for-object-detection-34750c4d00da
+https://mobidev.biz/blog/object-detection-small-datasets-use-cases-machine-learning
+https://analyticsindiamag.com/how-i-created-my-own-data-for-object-detection-and-segmentation/
+https://neptune.ai/blog/data-exploration-for-image-segmentation-and-object-detection
+https://www.quora.com/Computer-Vision-What-is-the-best-way-to-collect-Train-and-Test-data-images-for-object-recognition-job
+
+
+model for object detection:
+https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9
+https://towardsdatascience.com/object-detection-in-6-steps-using-detectron2-705b92575578
+https://www.google.com/search?q=Which+model+for+object+detection+will+you+use+as+your+precursor&rlz=1C1GGRV_enIN926IN926&sxsrf=APq-WBtltwMNbhwXsW5XfoqAF97ML1MOJg%3A1646759287694&ei=d40nYsjIKdKM4-EPytmV8AM&ved=0ahUKEwiI4P2ygLf2AhVSxjgGHcpsBT4Q4dUDCA8&uact=5&oq=Which+model+for+object+detection+will+you+use+as+your+precursor&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECc6BwgAEEcQsANKBAhBGABKBAhGGABQ-ydYoTJg-DhoAXABeACAAZQBiAHGCZIBAzAuOZgBAKABAcgBCMABAQ&sclient=gws-wiz
+
+
+
+
+Computing resources:
+https://www.google.com/search?q=which+gpu+is+required+for+object+detection&rlz=1C1GGRV_enIN926IN926&sxsrf=APq-WBuWn_9r76pHceLXrOtu3rJpcCf50w%3A1646759580857&ei=nI4nYundM8-E4-EPj9-J6Ao&oq=which+gpu+is+required+for+objec&gs_lcp=Cgdnd3Mtd2l6EAEYADIHCCEQChCgATIHCCEQChCgAToHCCMQ6gIQJzoECCMQJzoECAAQQzoFCAAQkQI6CAgAELEDEIMBOgsIABCABBCxAxCDAToKCAAQsQMQgwEQQzoHCC4Q1AIQQzoKCC4QxwEQ0QMQQzoICAAQgAQQsQM6BQgAEIAEOgYIABAWEB46CAghEBYQHRAeOgUIIRCgAUoECEEYAEoECEYYAFDADVjoeWCkjwFoAXABeACAAYcCiAGiJJIBBjAuMzAuMZgBAKABAbABCsABAQ&sclient=gws-wiz
+https://medium.com/@msisodia36/setup-object-detection-using-tensorflow-gpu-complete-guide-on-windows-a29800452e70#:~:text=2)%20RAM%20%E2%80%94%208%20GB%20minimum,to%20perform%20Object%20detection%20regardless.&text=4)%20Operating%20System%20%E2%80%94%20Microsoft%20Windows,bit%20recommended)%20Pro%20or%20Home.
